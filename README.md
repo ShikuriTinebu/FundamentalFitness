@@ -1,5 +1,9 @@
 # FundamentalFitness - SB Hacks X Project
 
+Test it out: https://colab.research.google.com/drive/1b1gBo_PHr2cZWw_aqVGTQ-hyVIch9wax?usp=sharing
+OR
+Run the .ipynb/.py file in the GitHub repo
+
 ## ☁ Inspiration ☁️
 With every new year comes the recurring "New Year's Resolutions" and one of the most popular New Year's resolution of all time is the promise to go to the gym more often. However, getting started is not an easy task considering the amount of planning, dedication, and perserverance it requires. That's where we come in. 
 
