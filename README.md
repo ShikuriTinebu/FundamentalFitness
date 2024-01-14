@@ -11,6 +11,7 @@ With every new year comes the recurring "New Year's Resolutions" and one of the 
 
 ## 🚧 What it does 🚧
 FundamentalFitness is an AI driven app which utilizes TensorFlow and Google's Movenet to help with every aspect of a prospective gym-goer's needs. We used pose estimation to generate body point data over a multitude of camera frames then trained our very own datasets and implemented stochastic processes and logistic regression based techniques to achieve binary classification of positive and negative movements. We then integrated these models into the SwiftUI application, supplementarily to the average work-out app's features (ex. scheduling, customized routine, calorie counter, pedometer, etc.) to create a comprehensive beginner friendly exercise app that allows users to learn the fundamentals of fitness. 
+
 (TLDR; It's the best fitness app you will ever use)
 
 ## 👷 Challenges we ran into 👷
