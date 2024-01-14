@@ -1,7 +1,9 @@
 # FundamentalFitness - SB Hacks X Project
 
 Test it out: https://colab.research.google.com/drive/1b1gBo_PHr2cZWw_aqVGTQ-hyVIch9wax?usp=sharing
+
 OR
+
 Run the .ipynb/.py file in the GitHub repo
 
 ## ☁ Inspiration ☁️
