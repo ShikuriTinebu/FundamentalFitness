@@ -13,10 +13,12 @@ For the front-end, the UI was very difficult to build because none of us had eve
 For the backend, some of the struggles we ran into was training our own dataset and solving the calculations for logistic regression at the probabilistic level. Since none of the datasets we needed were pre-existing, a large chunk of time was dedicated creating a dataset and training our own model to classify to what extent a given exercise is acceptable or not. 
 
 ## 🎉 Accomplishments we're proud of 🎉
-We're very proud of how much we've been able to implement and learn within the past day. 
+We're very proud of how much we've been able to implement and learn within the past day. Everything listed above was no easy task, especially for a team that was formed somewhat last minute, and we were able to accomplish a lot. We're proud of that.
 
 ## 📙 What we learned 📙
+We were able to quickly learn and iterate through new machine learning techniques that we were previously unfamiliar with. Additionally, we were able to integrate a wide variety of services such as TensorFlow, Movenet, and Apple's HealthKit. Finally, we were able to create classifications and analysis of exercise form based only on the provided video sequence. 
+
 
 ## 🔜 What's next for FundamentalFitness 🔜
-
+Moving forward we'd like to make improvements to the UI and diversify the model to accomodate for a larger variety of exercises.
 
